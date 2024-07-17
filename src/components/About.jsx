@@ -16,7 +16,7 @@ const About = () => {
 
         <div className="w-full lg:w-1/2">
           <div className="flex justify-center">
-            <p className="text-xl mt-10 my-2 max-w-lg py-6">
+            <p className="text-base mt-10 my-2 max-w-lg py-6">
               I am a junior front-end developer with hands-on experience in
               React, Tailwind CSS, and utilizing APIs. My skill set also
               includes Python and SQL, allowing me to handle various aspects of
