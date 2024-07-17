@@ -5,7 +5,6 @@ import project4 from "../assets/projects/spotify.png";
 import project5 from "../assets/projects/virtual1.png";
 import project6 from "../assets/projects/youtube.png";
 
-
 export const INTERNSHIPS = [
     {
         year: "June 2022 - August 2022",

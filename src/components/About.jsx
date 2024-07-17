@@ -1,3 +1,5 @@
+import boy from "../assets/boy.jpg";
+
 const About = () => {
   return (
     <div className="border-b border-neutral-900 pb-4">
@@ -8,7 +10,7 @@ const About = () => {
       <div className="flex flex-wrap">
         <div className="w-full lg:w-1/2 lg:p-8">
           <div className="flex items-center justify-center">
-            <img className="rounded-2xl" src="/src/assets/boy ai.jpg" alt="" />
+            <img className="rounded-2xl" src={boy} alt="about picture" />
           </div>
         </div>
 
