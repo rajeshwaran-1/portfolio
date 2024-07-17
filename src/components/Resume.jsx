@@ -6,7 +6,7 @@ const Resume = () => {
       <p className="text-4xl text-center font-semibold">
         Download resume for details
       </p>
-      <a href={resume} target="_blank">
+      <a href={resume} download="Rajeshwaran_V_CV.pdf">
         <button className="bg-red-900 px-6 py-2 font-semibold mt-4 rounded-2xl text-lg hover:bg-white hover:text-red-900 transition duration-300 ease-in-out">
           Download
         </button>
